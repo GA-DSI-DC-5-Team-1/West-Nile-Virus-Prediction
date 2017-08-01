@@ -2,5 +2,9 @@
 Group project on an old Kaggle competition: https://www.kaggle.com/c/predict-west-nile-virus/
 
 Description of the directories:
-- assets: original data from Kaggle; clean data in csv format
-- references: put reference links in a jupyter notebook; pdf can be directly uploaded to this directory
+any code (.py, .ipynb, etc.) should be uploaded to the [root directory](./)
+- assets: datasets
+          original data from Kaggle; cleaned data in csv format
+- references: 
+  - links to webpages: put the links in the [jupyter notebook provided](./refereces/reference links.ipynb)
+  - PDFs and other files: upload to [references](./references)
