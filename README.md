@@ -6,5 +6,5 @@ Group project on an old Kaggle competition: https://www.kaggle.com/c/predict-wes
 - assets: datasets  
           original data from Kaggle; cleaned data in csv format
 - references: 
-  - links to webpages: put the links in the [jupyter notebook provided](./refereces/reference_links.ipynb)
+  - links to webpages: put the links in the jupyter notebook provided
   - PDFs and other files: upload to [references](./references)
