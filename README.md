@@ -3,8 +3,10 @@
 ## Two major notebooks:
 - Date cleaning process is described in `get train and test ready for models.ipynb`
 - Modeling process is described in `Best Model Testing_all_weather.ipynb`
+- _All the other Jupyter Notebooks are snippets of EDA/data munching that are referenced in `get train and test ready for models.ipynb`_
 
-###### All the other Jupyter Notebooks are snippets of EDA/data munching that are referenced in `get train and test ready for models.ipynb`
+## Cost-benefit analysis write-up:
+- `West Nile Virus Report and CBA.docx`
 ---
 ## Description of the directories:
 Code (`.py`, `.ipynb`, etc.) are in the root directory
