@@ -7,6 +7,10 @@
 
 ## Cost-benefit analysis write-up:
 - `West Nile Virus Report and CBA.docx`
+
+## Presentation:
+- `presentation.pdf`
+
 ---
 ## Description of the directories:
 Code (`.py`, `.ipynb`, etc.) are in the root directory
